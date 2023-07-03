@@ -1,0 +1,15 @@
+{
+    "name": "haxecraft-wiki",
+    "repository": {
+        "url": "https://github.com/boojang-entertainment/haxecraft-wiki"
+    },
+    "scripts": {
+        "dev": "nuxt dev",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "nuxt": "^3.6.1"
+    }
+}
